@@ -1,4 +1,5 @@
 require "tempfile"
+require "pathname"
 
 module Quirc
   class ImageProcessor

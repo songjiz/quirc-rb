@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    quirc-rb (0.1.0)
+    quirc-rb (0.1.1)
       image_processing (~> 1.12, >= 1.12.1)
 
 GEM
